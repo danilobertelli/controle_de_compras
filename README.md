@@ -1,4 +1,4 @@
-# Flutter - Controle De Compras
+# Flutter - Controle De Compras (Versão Mobile)
 
 Aplicação responsável por controlar compras do supermercado.
 Esta aplicação ainda está em desenvolvimento e tem como objetivo o de se aprofundar nos estudos do Flutter SDK.
@@ -80,3 +80,6 @@ https://pub.dev/packages/multiselect_formfield
 Código para adicionar produtos em uma compra baseado na biblioteca multiselect_formfield.
 
 Dialogos para confirmação de finalizar a compra e confirmar quantidade e preço baseados em https://medium.com/@excogitatr/custom-dialog-in-flutter-d00e0441f1d5
+
+# Flutter - Controle De Compras (Versão WEB)
+--- TODO()
