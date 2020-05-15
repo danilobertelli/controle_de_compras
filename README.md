@@ -4,6 +4,7 @@ Aplicação responsável por controlar compras do supermercado.
 Esta aplicação ainda está em desenvolvimento e tem como objetivo o de se aprofundar nos estudos do Flutter SDK.
 
 Tecnologias utilizadas:
+
 -- Dart  - Linguagem de desenvolvimento.
 
 -- Firebase Google Sign-in - Para fazer controle de usuários.
