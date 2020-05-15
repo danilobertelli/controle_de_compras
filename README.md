@@ -71,3 +71,12 @@ v1.0.0 - Initial version
 - CRUD de local de compra.
 - Gráfico de variação de preços.
 - Compras por usuário (atualmente qualquer usuário pode acessar qualquer compra).
+
+#### Agradecimentos:
+https://github.com/cybdom/storage_manager 
+Ideia para o design da aplicação.
+
+https://pub.dev/packages/multiselect_formfield 
+Código para adicionar produtos em uma compra baseado na biblioteca multiselect_formfield.
+
+Dialogos para confirmação de finalizar a compra e confirmar quantidade e preço baseados em https://medium.com/@excogitatr/custom-dialog-in-flutter-d00e0441f1d5
