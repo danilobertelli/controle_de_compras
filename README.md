@@ -5,9 +5,13 @@ Esta aplicação ainda está em desenvolvimento e tem como objetivo o de se apro
 
 Tecnologias utilizadas:
 -- Dart  - Linguagem de desenvolvimento.
+
 -- Firebase Google Sign-in - Para fazer controle de usuários.
+
 -- Firebase Cloud Firestore - Banco de dados para armazenar os produtos, compras, etc.
+
 -- Firebase Storage - Armazenamento das imagens dos produtos.
+
 
 ### Visão geral
 Ideia de projeto para o controle de compras, para fim de ter um controle financeiro e dos itens a serem comprados.
