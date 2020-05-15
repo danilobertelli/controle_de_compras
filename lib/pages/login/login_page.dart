@@ -33,7 +33,7 @@ class _LoginPageState extends State<LoginPage> {
         ),
         SizedBox(height: 10),
         Text(
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+          "Este aplicativo irá facilitar a ida ao supermercado, exibindo a lista de produtos que precisam ser comprados com os valores estimados baseados em seu histórico de consumo.",
           style: Theme.of(context).textTheme.bodyText1,
         ),
         SizedBox(height: 20),
